@@ -1,0 +1,13 @@
+D:\Programmin\C#\For robot game\BitwiseOperatorsExample\BitwiseOperators\BitwiseOperators\bin\Debug\netcoreapp3.1\BitwiseOperators.exe
+D:\Programmin\C#\For robot game\BitwiseOperatorsExample\BitwiseOperators\BitwiseOperators\bin\Debug\netcoreapp3.1\BitwiseOperators.deps.json
+D:\Programmin\C#\For robot game\BitwiseOperatorsExample\BitwiseOperators\BitwiseOperators\bin\Debug\netcoreapp3.1\BitwiseOperators.runtimeconfig.json
+D:\Programmin\C#\For robot game\BitwiseOperatorsExample\BitwiseOperators\BitwiseOperators\bin\Debug\netcoreapp3.1\BitwiseOperators.runtimeconfig.dev.json
+D:\Programmin\C#\For robot game\BitwiseOperatorsExample\BitwiseOperators\BitwiseOperators\bin\Debug\netcoreapp3.1\BitwiseOperators.dll
+D:\Programmin\C#\For robot game\BitwiseOperatorsExample\BitwiseOperators\BitwiseOperators\bin\Debug\netcoreapp3.1\BitwiseOperators.pdb
+D:\Programmin\C#\For robot game\BitwiseOperatorsExample\BitwiseOperators\BitwiseOperators\obj\Debug\netcoreapp3.1\BitwiseOperators.csprojAssemblyReference.cache
+D:\Programmin\C#\For robot game\BitwiseOperatorsExample\BitwiseOperators\BitwiseOperators\obj\Debug\netcoreapp3.1\BitwiseOperators.AssemblyInfoInputs.cache
+D:\Programmin\C#\For robot game\BitwiseOperatorsExample\BitwiseOperators\BitwiseOperators\obj\Debug\netcoreapp3.1\BitwiseOperators.AssemblyInfo.cs
+D:\Programmin\C#\For robot game\BitwiseOperatorsExample\BitwiseOperators\BitwiseOperators\obj\Debug\netcoreapp3.1\BitwiseOperators.csproj.CoreCompileInputs.cache
+D:\Programmin\C#\For robot game\BitwiseOperatorsExample\BitwiseOperators\BitwiseOperators\obj\Debug\netcoreapp3.1\BitwiseOperators.dll
+D:\Programmin\C#\For robot game\BitwiseOperatorsExample\BitwiseOperators\BitwiseOperators\obj\Debug\netcoreapp3.1\BitwiseOperators.pdb
+D:\Programmin\C#\For robot game\BitwiseOperatorsExample\BitwiseOperators\BitwiseOperators\obj\Debug\netcoreapp3.1\BitwiseOperators.genruntimeconfig.cache

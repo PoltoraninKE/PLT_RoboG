@@ -1,0 +1,15 @@
+{
+    "terminals":{
+        "(" : "(",
+        ")" : ")",
+        "," : ",",
+        " " : " ",
+        "." : "."
+    },
+    "parametrized_non_terminals":{
+        "shoot" : "Shoot"
+    },
+    "non_parametrized_non_terminals":{
+        "move" : "Move"
+    }
+}

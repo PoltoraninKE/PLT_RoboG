@@ -1,0 +1,26 @@
+D:\Programmin\C#\Lexer&Parser\PseudoParserAndLexer\PseudoParserAndLexer\bin\Debug\netcoreapp3.1\PseudoParserAndLexer.exe
+D:\Programmin\C#\Lexer&Parser\PseudoParserAndLexer\PseudoParserAndLexer\bin\Debug\netcoreapp3.1\PseudoParserAndLexer.deps.json
+D:\Programmin\C#\Lexer&Parser\PseudoParserAndLexer\PseudoParserAndLexer\bin\Debug\netcoreapp3.1\PseudoParserAndLexer.runtimeconfig.json
+D:\Programmin\C#\Lexer&Parser\PseudoParserAndLexer\PseudoParserAndLexer\bin\Debug\netcoreapp3.1\PseudoParserAndLexer.runtimeconfig.dev.json
+D:\Programmin\C#\Lexer&Parser\PseudoParserAndLexer\PseudoParserAndLexer\bin\Debug\netcoreapp3.1\PseudoParserAndLexer.dll
+D:\Programmin\C#\Lexer&Parser\PseudoParserAndLexer\PseudoParserAndLexer\bin\Debug\netcoreapp3.1\PseudoParserAndLexer.pdb
+D:\Programmin\C#\Lexer&Parser\PseudoParserAndLexer\PseudoParserAndLexer\obj\Debug\netcoreapp3.1\PseudoParserAndLexer.csprojAssemblyReference.cache
+D:\Programmin\C#\Lexer&Parser\PseudoParserAndLexer\PseudoParserAndLexer\obj\Debug\netcoreapp3.1\PseudoParserAndLexer.AssemblyInfoInputs.cache
+D:\Programmin\C#\Lexer&Parser\PseudoParserAndLexer\PseudoParserAndLexer\obj\Debug\netcoreapp3.1\PseudoParserAndLexer.AssemblyInfo.cs
+D:\Programmin\C#\Lexer&Parser\PseudoParserAndLexer\PseudoParserAndLexer\obj\Debug\netcoreapp3.1\PseudoParserAndLexer.csproj.CoreCompileInputs.cache
+D:\Programmin\C#\Lexer&Parser\PseudoParserAndLexer\PseudoParserAndLexer\obj\Debug\netcoreapp3.1\PseudoParserAndLexer.dll
+D:\Programmin\C#\Lexer&Parser\PseudoParserAndLexer\PseudoParserAndLexer\obj\Debug\netcoreapp3.1\PseudoParserAndLexer.pdb
+D:\Programmin\C#\Lexer&Parser\PseudoParserAndLexer\PseudoParserAndLexer\obj\Debug\netcoreapp3.1\PseudoParserAndLexer.genruntimeconfig.cache
+D:\Programmin\C#\For robot game\PseudoParserAndLexer\PseudoParserAndLexer\bin\Debug\netcoreapp3.1\PseudoParserAndLexer.exe
+D:\Programmin\C#\For robot game\PseudoParserAndLexer\PseudoParserAndLexer\bin\Debug\netcoreapp3.1\PseudoParserAndLexer.deps.json
+D:\Programmin\C#\For robot game\PseudoParserAndLexer\PseudoParserAndLexer\bin\Debug\netcoreapp3.1\PseudoParserAndLexer.runtimeconfig.json
+D:\Programmin\C#\For robot game\PseudoParserAndLexer\PseudoParserAndLexer\bin\Debug\netcoreapp3.1\PseudoParserAndLexer.runtimeconfig.dev.json
+D:\Programmin\C#\For robot game\PseudoParserAndLexer\PseudoParserAndLexer\bin\Debug\netcoreapp3.1\PseudoParserAndLexer.dll
+D:\Programmin\C#\For robot game\PseudoParserAndLexer\PseudoParserAndLexer\bin\Debug\netcoreapp3.1\PseudoParserAndLexer.pdb
+D:\Programmin\C#\For robot game\PseudoParserAndLexer\PseudoParserAndLexer\obj\Debug\netcoreapp3.1\PseudoParserAndLexer.csprojAssemblyReference.cache
+D:\Programmin\C#\For robot game\PseudoParserAndLexer\PseudoParserAndLexer\obj\Debug\netcoreapp3.1\PseudoParserAndLexer.AssemblyInfoInputs.cache
+D:\Programmin\C#\For robot game\PseudoParserAndLexer\PseudoParserAndLexer\obj\Debug\netcoreapp3.1\PseudoParserAndLexer.AssemblyInfo.cs
+D:\Programmin\C#\For robot game\PseudoParserAndLexer\PseudoParserAndLexer\obj\Debug\netcoreapp3.1\PseudoParserAndLexer.csproj.CoreCompileInputs.cache
+D:\Programmin\C#\For robot game\PseudoParserAndLexer\PseudoParserAndLexer\obj\Debug\netcoreapp3.1\PseudoParserAndLexer.dll
+D:\Programmin\C#\For robot game\PseudoParserAndLexer\PseudoParserAndLexer\obj\Debug\netcoreapp3.1\PseudoParserAndLexer.pdb
+D:\Programmin\C#\For robot game\PseudoParserAndLexer\PseudoParserAndLexer\obj\Debug\netcoreapp3.1\PseudoParserAndLexer.genruntimeconfig.cache
