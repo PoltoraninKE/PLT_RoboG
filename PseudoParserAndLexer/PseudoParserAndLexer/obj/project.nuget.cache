@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "WsGR0r4e7g+v+QfXMa0qzZo/X5nVtYDnrG/IgcugBURE9c7r/hZ2lqBO4FrGyQK21Jv2sZWYwlrwdOy1D/fReQ==",
+  "dgSpecHash": "+haLQrebXXpDvq5NoVg6YHpLFs9A+0rk1ev+qA2q6sEA7Jmv8b3DvgI2jL09jK/vx63ZSdV7E7eLWWMJkD0cMA==",
   "success": true,
-  "projectFilePath": "D:\\Programmin\\C#\\For robot game\\PseudoParserAndLexer\\PseudoParserAndLexer\\PseudoParserAndLexer.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Programming\\C#\\ForRobotGame\\PLT_RoboG\\PseudoParserAndLexer\\PseudoParserAndLexer\\PseudoParserAndLexer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kirul\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

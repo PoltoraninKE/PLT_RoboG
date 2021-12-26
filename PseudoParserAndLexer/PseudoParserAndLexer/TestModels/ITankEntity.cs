@@ -4,8 +4,12 @@ using System.Text;
 
 namespace PseudoParserAndLexer.TestModels
 {
-    interface ITankEntity
+    public interface ITankEntity
     {
-        public void TankMethod();
+        public void TurnToLeft(float degrees);
+        public void TurnToRight(float degrees);
+        public void MoveForward(float movementRange);
+        public void MoveBackward(float movementRange);
+
     }
 }

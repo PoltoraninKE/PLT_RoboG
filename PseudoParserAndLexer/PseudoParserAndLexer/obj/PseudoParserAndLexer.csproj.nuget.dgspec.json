@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programmin\\C#\\For robot game\\PseudoParserAndLexer\\PseudoParserAndLexer\\PseudoParserAndLexer.csproj": {}
+    "D:\\Programming\\C#\\ForRobotGame\\PLT_RoboG\\PseudoParserAndLexer\\PseudoParserAndLexer\\PseudoParserAndLexer.csproj": {}
   },
   "projects": {
-    "D:\\Programmin\\C#\\For robot game\\PseudoParserAndLexer\\PseudoParserAndLexer\\PseudoParserAndLexer.csproj": {
+    "D:\\Programming\\C#\\ForRobotGame\\PLT_RoboG\\PseudoParserAndLexer\\PseudoParserAndLexer\\PseudoParserAndLexer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programmin\\C#\\For robot game\\PseudoParserAndLexer\\PseudoParserAndLexer\\PseudoParserAndLexer.csproj",
+        "projectUniqueName": "D:\\Programming\\C#\\ForRobotGame\\PLT_RoboG\\PseudoParserAndLexer\\PseudoParserAndLexer\\PseudoParserAndLexer.csproj",
         "projectName": "PseudoParserAndLexer",
-        "projectPath": "D:\\Programmin\\C#\\For robot game\\PseudoParserAndLexer\\PseudoParserAndLexer\\PseudoParserAndLexer.csproj",
-        "packagesPath": "C:\\Users\\kiril\\.nuget\\packages\\",
-        "outputPath": "D:\\Programmin\\C#\\For robot game\\PseudoParserAndLexer\\PseudoParserAndLexer\\obj\\",
+        "projectPath": "D:\\Programming\\C#\\ForRobotGame\\PLT_RoboG\\PseudoParserAndLexer\\PseudoParserAndLexer\\PseudoParserAndLexer.csproj",
+        "packagesPath": "C:\\Users\\Kirul\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\C#\\ForRobotGame\\PLT_RoboG\\PseudoParserAndLexer\\PseudoParserAndLexer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kiril\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kirul\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +39,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -54,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

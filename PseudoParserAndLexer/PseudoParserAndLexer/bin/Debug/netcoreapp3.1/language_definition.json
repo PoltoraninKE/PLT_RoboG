@@ -1,18 +1,21 @@
 {
-    "terminals":
-    {
-        "(" : "(",
-        ")" : ")",
-        "," : ",",
-        " " : " ",
-        "." : "."
-    },
-    "parametrized_non_terminals" :
-    {
-        "shoot" : "Shoot"
-    },
-    "non_parametrized_non_terminals" : 
-    {
-        "move" : "Move"
-    }
+  // If you want to "write" your own language definition you can change ONLY LEFT side of this dictionaries;
+  // If you will change right side of it, compiler will crash
+  "Terminals": {
+    "(": "(",
+    ")": ")",
+    ",": ",",
+    " ": " ",
+    ".": "."
+  },
+  "ParametrizedNonTerminals": {
+    "left": "TurnLeft",
+    "right": "TurnRight",
+    "forward": "MoveForward",
+    "backward": "MoveBackward"
+
+  },
+  "NonParametrizedNonTerminals": {
+    "shoot": "Shoot"
+  }
 }

@@ -1,34 +1,36 @@
-﻿using PseudoParserAndLexer.Enums;
+﻿using Newtonsoft.Json;
+using PseudoParserAndLexer.Enums;
 using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Text.Json;
 
 namespace PseudoParserAndLexer
 {
     class Program
     {
+        
+
         static void Main(string[] args)
         {
-            // ExampleOfReflection()
-            Load();
-            //while (true)
-            //{
-            //    //Update();
-            //}
+           LoadJson();
         }
 
-        public static void Load()
+        public static GrammarModel LoadJson()
         {
-            // load jsons here instead of deserialize it just in time
+            // Loading json here
+            using (StreamReader jsonFile = File.OpenText(@"language_definition.json")) 
+            {
+                JsonSerializer jsonSerializer = new JsonSerializer();
+                return (GrammarModel)jsonSerializer.Deserialize(jsonFile, typeof(GrammarModel));
+            }
         }
 
         public static void Update()
         {
-            string input = Console.ReadLine();
-            Console.Write("\n\n\n");
-            Parser.Parse(input);
-            Console.Write("\n\n\n");
+            var inputProgram = File.ReadAllText(@"program.pl");
+            var grammarModel = LoadJson();
+            var parser = new Parser(grammarModel);
+            parser.Parse(inputProgram);
         }
     }
 }
